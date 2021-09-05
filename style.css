@@ -1,0 +1,51 @@
+body{
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+#wapper{
+    width: 100%;
+}
+
+header{
+    height: 150px;
+}
+
+#weather{   
+    float: right;   
+}
+
+main{
+    height: 300px;
+}
+
+footer{  
+    float: left;
+}
+
+ul{
+    list-style: none;
+    float: left;
+    text-align: left;
+}
+
+
+#clock{
+    font-size: 70pt;
+    height: 40px;
+    padding: 20px;
+}
+
+#login-form{
+    padding: 20px;
+}
+
+
+.hidden{
+    display: none;
+}
+
+input{
+    border: 0;
+    font-size: 13pt;
+}
